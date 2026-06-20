@@ -1,33 +1,33 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+there!+I%27m+Krishna+Kumar+%F0%9F%91%8B;Backend+Developer+%7C+Node.js+%C2%B7+NestJS;Building+at+Scale+for+Millions&font=Fira+Code&center=true&width=480&height=50&color=00e5a0&vCenter=true&size=20&pause=1000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+there!+I%27m+Adarsh+Agnihotri+%F0%9F%91%8B;Full-Stack+Developer+%7C+Node.js+%C2%B7+NestJS;Building+Products+with+Curiosity&font=Fira+Code&center=true&width=480&height=50&color=00e5a0&vCenter=true&size=20&pause=1000" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <b>Backend Developer · Ministry of Electronics & IT (MeitY) · India</b><br/>
-  Building APIs that hold under load, payment systems that never double-charge,<br/>
-  and services that stay up while millions depend on them.
+  <b>Full-Stack Developer · Ministry of Electronics & IT (MeitY) · India</b><br/>
+  Building products that feel intuitive, solving problems that matter,<br/>
+  and learning something new with every commit.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/krishna-kumar-064529291/">
+  <a href="https://www.linkedin.com/in/adarsh-agnihotri/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:krishukumar7827@gmail.com">
+  <a href="mailto:adarsh@example.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://Krishu7827.github.io">
+  <a href="https://adarshagnihotri0.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-060810?style=for-the-badge&logo=vercel&logoColor=00e5a0" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Krishu7827&label=Profile+Views&color=00e5a0&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Adarshagnihotri0&label=Profile+Views&color=00e5a0&style=for-the-badge" />
 </p>
 
 ---
 
 ### 🚀 What I'm working on
 
-- 🏛️ **DigiLocker @ MeitY** — India's national document platform · **150M+ users**
-- 🔧 Microservices with **NestJS · Node.js · TypeScript** on **AWS ECS**
-- 🤖 Side project: **[Bhavishya](https://github.com/Krishu7827/future)** — CLI marketplace that auto-routes tasks to the best AI model (Uber for AI)
+- 🏛️ **API Setu & Poshan Tracker @ MeitY** — Government digital platforms · **100M+ users reached**
+- 🔧 Full-stack development with **NestJS · Next.js · TypeScript · PostgreSQL**
+- 🤖 Side project: **[Bhavishya](https://github.com/Adarshagnihotri0/future)** — MCP marketplace that auto-routes tasks to the best AI model (delegation made invisible)
 
 ---
 
@@ -35,9 +35,8 @@
 
 | Role | Company | Period |
 |------|---------|--------|
-| Backend Developer | DigiLocker, MeitY | Apr 2025 – Present |
-| Backend Developer | Conscent.ai | Oct 2024 – Mar 2025 |
-| Full-Stack Trainee | Masai School | Apr 2023 – Sep 2024 |
+| Full-Stack Developer | Ministry of Electronics & IT (MeitY) | Dec 2024 – Present |
+| Full-Stack Developer | Jibhi Travel Platform | Feb 2024 – Nov 2024 |
 
 ---
 
@@ -74,47 +73,39 @@
 
 ---
 
-### 🏗 Projects
+### 🏗 Featured Projects
 
-| Project | Description | Links |
-|---------|-------------|-------|
-| **UPMS** | Government project management platform — 1,000+ concurrent users, 99.8% uptime | [Live ↗](https://upms.meity.gov.in/) |
-| **API Setu** | API aggregation gateway for government digital services — 50K+ requests/day, <200ms latency | [Live ↗](https://www.apisetu.gov.in/) |
-| **Poshan Tracker** | Nutrition tracking platform — 10,000+ students, 200+ institutions, 99.9% accuracy | [Live ↗](https://www.poshantracker.in/) |
-| **Bhavishya** | AI model marketplace CLI — auto-routes tasks to best-fit AI model with billing & token tracking | [GitHub ↗](https://github.com/Krishu7827/future) |
-| **In-App Purchase System** | IAP backend integrating Apple StoreKit + Google Play Billing — zero duplicate records over 3 months | Conscent.ai |
+| Project | Description | Impact |
+|---------|-------------|--------|
+| **API Setu** | Government API aggregation gateway — authentication, permissions, internal workflows | 100M+ users · 8s → <1s latency |
+| **Poshan Tracker** | Nutrition tracking platform for student health monitoring | 10,000+ students · 200+ institutions |
+| **Jibhi Travel Platform** | AI-powered travel planning with intelligent itinerary generation | 7,000+ users · +20% engagement |
+| **Bhavishya** | CLI marketplace that auto-routes tasks to best AI model (delegation made invisible) | [GitHub ↗](https://github.com/Adarshagnihotri0/future) |
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krishu7827&show_icons=true&theme=dark&bg_color=060810&title_color=00e5a0&icon_color=00e5a0&border_color=1E2638&hide_border=false" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Krishu7827&layout=compact&theme=dark&bg_color=060810&title_color=00e5a0&border_color=1E2638" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adarshagnihotri0&show_icons=true&theme=dark&bg_color=060810&title_color=00e5a0&icon_color=00e5a0&border_color=1E2638&hide_border=false" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adarshagnihotri0&layout=compact&theme=dark&bg_color=060810&title_color=00e5a0&border_color=1E2638" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishu7827&theme=dark&background=060810&ring=00e5a0&fire=00e5a0&currStreakLabel=00e5a0&sideLabels=00e5a0&border=1E2638" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishu7827&bg_color=060810&color=00e5a0&line=00e5a0&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarshagnihotri0&theme=dark&background=060810&ring=00e5a0&fire=00e5a0&currStreakLabel=00e5a0&sideLabels=00e5a0&border=1E2638" />
 </p>
 
 ---
 
 ### 📫 Reach me
 
-- ✉️ **Email:** [krishukumar7827@gmail.com](mailto:krishukumar7827@gmail.com)
-- 💼 **LinkedIn:** [krishna-kumar-064529291](https://www.linkedin.com/in/krishna-kumar-064529291/)
-- 🌐 **Portfolio:** [Krishu7827.github.io](https://Krishu7827.github.io)
+- ✉️ **Email:** [adarsh@example.com](mailto:adarsh@example.com)
+- 💼 **LinkedIn:** [adarsh-agnihotri](https://www.linkedin.com/in/adarsh-agnihotri/)
+- 🌐 **Portfolio:** [adarshagnihotri0.github.io/portfolio](https://adarshagnihotri0.github.io/portfolio/)
+- 🐙 **GitHub:** [Adarshagnihotri0](https://github.com/Adarshagnihotri0)
 
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Krishu7827&theme=darkhub&margin-w=15&column=7" />
-</p>
-
-<p align="center">
-  <i>⚡ Fun fact: Normal people count from 1. Programmers count from 0.</i>
+  <i>⚡ Still learning, still building, still curious about what comes next.</i>
 </p>
