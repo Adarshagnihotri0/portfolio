@@ -40,3 +40,8 @@ build
 *.tmp
 *.temp
 .cache
+# Security - Never commit sensitive files
+*.key
+*.pem
+*_key.json
+credentials.*
